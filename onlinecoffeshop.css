@@ -1,0 +1,57 @@
+#header{
+    text-decoration: none;
+}
+#header:hover{
+   border-bottom: 2px solid red
+
+}
+#button{
+
+    align-items: center;
+  margin-left:10px;
+  margin-right: 4px;
+  border-radius: 35px;
+  color:black;
+  
+}
+
+
+
+
+
+
+
+#gallery{
+    color:peru;
+    font-size: 60px;
+    padding: 10px;
+
+
+}
+
+.image{
+    
+    margin-left: 0x;
+    margin-right: 2px;
+}
+
+#gallery:hover{
+    transform: scale(1.1);
+}
+.coffeeorigin{
+    color:peru;
+    font-size: 60px;
+    padding: 10px;
+}
+ #notification{
+
+float:right;
+position:sticky;
+right:0px;
+
+}
+#submit{
+
+    background-color: peru;
+    margin-left: 100px;
+}
